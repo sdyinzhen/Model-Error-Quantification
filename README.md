@@ -5,11 +5,13 @@
 ## Dependancy required 
 <code>numpy</code>
 
+<code>matplotlib</code>
+
 <code>pandas</code>
 
 <code>seaborn</code>
 
-<code>matplotlib</code>
+<code>statsmodels </code>
 
 <code>scipy</code>
 
@@ -18,7 +20,5 @@
 <code>tensorflow</code>
 
 <code>tqdm</code>
-
-<code>statsmodels </code>
 
 ## Reference - 

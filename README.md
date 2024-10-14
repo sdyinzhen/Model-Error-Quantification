@@ -1,4 +1,4 @@
-# Model-Error-Quantification
+#       Model Mis-representation Error Quantification in Geophysical Inversion 
 
 ## Programing language
 Python

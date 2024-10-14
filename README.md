@@ -1,8 +1,14 @@
 # Model-Error-Quantification
 
+## Programing language
+Python
+
 ## Instruction 
+Download the whole package, and run the 
 
 ## Dependancy required 
+
+
 <code>numpy</code>
 
 <code>matplotlib</code>
@@ -21,4 +27,4 @@
 
 <code>tqdm</code>
 
-## Reference - 
+## References

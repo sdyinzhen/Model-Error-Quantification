@@ -4,7 +4,7 @@
 Python
 
 ## Instruction 
-Download the whole package, and run the main noteboke: <code>[SMC_for_Stochastic_Geophyical_Inversion.ipynb]()</code>
+Download the whole package, and run the main noteboke: <code>[SMC_for_Stochastic_Geophyical_Inversion.ipynb](https://github.com/sdyinzhen/Model-Error-Quantification/blob/main/SMC_for_Stochastic_Geophyical_Inversion.ipynb)</code>
 
 ## Dependancy required 
 

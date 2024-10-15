@@ -1,5 +1,9 @@
 #       Model Mis-representation Error Quantification in Geophysical Inversion 
+
 Author: Zhen Yin <yinzhen@stanford.edu>
+
+## References
+Yin, Z., Miltenberger., A., Topinka, M., Wang., L., & Caers., J. (2024) Quantifying model misrepresentation in geophysical inversion for critical mineral explorations. Paper submitted to IEEE Transactions on Geoscience and Remote Sensing, [Download](https://www.dropbox.com/scl/fi/frh6lypcp8xs0poxh0n1s/Manuscript_Paper_IEEE_Formulated_v7.pdf?rlkey=0d5r28ahbomwmaijnax0tjp8l&dl=0)
 
 ## Programing language
 Python
@@ -28,5 +32,4 @@ Download the whole package, and run the main noteboke: <code>[SMC_for_Stochastic
 
 <code>tqdm</code>
 
-## References
-Yin, Z., Miltenberger., A., Topinka, M., Wang., L., & Caers., J. (2024) Quantifying model misrepresentation in geophysical inversion for critical mineral explorations. Paper submitted to IEEE Transactions on Geoscience and Remote Sensing, [Download](https://www.dropbox.com/scl/fi/frh6lypcp8xs0poxh0n1s/Manuscript_Paper_IEEE_Formulated_v7.pdf?rlkey=0d5r28ahbomwmaijnax0tjp8l&dl=0)
+

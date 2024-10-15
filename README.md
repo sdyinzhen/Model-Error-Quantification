@@ -1,5 +1,5 @@
 #       Model Mis-representation Error Quantification in Geophysical Inversion 
-
+Author: [Zhen Yin] (yinzhen@stanford.edu)
 ## Programing language
 Python
 

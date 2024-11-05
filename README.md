@@ -26,7 +26,7 @@ Download the whole package, and run the main noteboke: <code>[SMC_for_Stochastic
 
 <code>scipy</code>
 
-<code>sklearn</code>
+<code>scikit-learn</code>
 
 <code>tensorflow</code>
 
